@@ -3,13 +3,10 @@ module webcrawler
 go 1.22.1
 
 require (
-	github.com/PacktPublishing/Hands-On-Software-Engineering-with-Golang v0.0.0-20230706072115-8b501b01151f
 	github.com/blevesearch/bleve/v2 v2.4.0
 	github.com/elastic/go-elasticsearch v0.0.0
 	github.com/google/uuid v1.6.0
 	github.com/lib/pq v1.10.9
-	github.com/pkg/errors v0.9.1
-	golang.org/x/xerrors v0.0.0-20231012003039-104605ab7028
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
 )
 
@@ -45,5 +42,6 @@ require (
 	github.com/rogpeppe/go-internal v1.9.0 // indirect
 	go.etcd.io/bbolt v1.3.7 // indirect
 	golang.org/x/sys v0.13.0 // indirect
+	golang.org/x/xerrors v0.0.0-20231012003039-104605ab7028 // indirect
 	google.golang.org/protobuf v1.28.1 // indirect
 )
