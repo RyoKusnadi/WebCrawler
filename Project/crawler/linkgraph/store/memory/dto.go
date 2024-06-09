@@ -2,7 +2,7 @@ package memory
 
 import (
 	"sync"
-	"webcrawler/linkgraph/graph"
+	"webcrawler/crawler/linkgraph/graph"
 
 	"github.com/google/uuid"
 )

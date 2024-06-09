@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"os"
 	"testing"
-	"webcrawler/linkgraph/graph/graphtest"
+	"webcrawler/crawler/linkgraph/graph/graphtest"
 
 	gc "gopkg.in/check.v1"
 )

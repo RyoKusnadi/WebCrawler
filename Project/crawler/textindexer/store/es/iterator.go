@@ -1,7 +1,7 @@
 package es
 
 import (
-	"webcrawler/textindexer/index"
+	"webcrawler/crawler/textindexer/index"
 
 	"github.com/elastic/go-elasticsearch"
 )

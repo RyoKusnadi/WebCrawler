@@ -4,7 +4,7 @@ import (
 	"os"
 	"strings"
 	"testing"
-	"webcrawler/textindexer/index/indextest"
+	"webcrawler/crawler/textindexer/index/indextest"
 
 	gc "gopkg.in/check.v1"
 )

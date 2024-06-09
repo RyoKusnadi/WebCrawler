@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"strings"
-	"webcrawler/textindexer/index"
+	"webcrawler/crawler/textindexer/index"
 
 	"github.com/elastic/go-elasticsearch"
 	"github.com/elastic/go-elasticsearch/esapi"

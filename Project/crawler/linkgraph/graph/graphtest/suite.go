@@ -7,7 +7,7 @@ import (
 	"sort"
 	"sync"
 	"time"
-	"webcrawler/linkgraph/graph"
+	"webcrawler/crawler/linkgraph/graph"
 
 	"github.com/google/uuid"
 	gc "gopkg.in/check.v1"

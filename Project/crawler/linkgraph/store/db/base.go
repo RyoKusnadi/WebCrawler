@@ -2,7 +2,7 @@ package db
 
 import (
 	"database/sql"
-	"webcrawler/linkgraph/graph"
+	"webcrawler/crawler/linkgraph/graph"
 
 	"fmt"
 

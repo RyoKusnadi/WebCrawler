@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 	"time"
-	"webcrawler/textindexer/index"
+	"webcrawler/crawler/textindexer/index"
 
 	"github.com/google/uuid"
 	gc "gopkg.in/check.v1"

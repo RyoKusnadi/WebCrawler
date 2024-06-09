@@ -1,7 +1,7 @@
 package memory
 
 import (
-	"webcrawler/textindexer/index"
+	"webcrawler/crawler/textindexer/index"
 
 	"github.com/blevesearch/bleve/v2"
 )

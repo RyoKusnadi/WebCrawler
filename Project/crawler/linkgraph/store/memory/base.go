@@ -3,7 +3,7 @@ package memory
 import (
 	"fmt"
 	"time"
-	"webcrawler/linkgraph/graph"
+	"webcrawler/crawler/linkgraph/graph"
 
 	"github.com/google/uuid"
 )

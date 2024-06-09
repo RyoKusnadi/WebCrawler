@@ -3,7 +3,7 @@ package db
 import (
 	"database/sql"
 	"fmt"
-	"webcrawler/linkgraph/graph"
+	"webcrawler/crawler/linkgraph/graph"
 )
 
 // linkIterator is a graph.LinkIterator implementation for the cdb graph.

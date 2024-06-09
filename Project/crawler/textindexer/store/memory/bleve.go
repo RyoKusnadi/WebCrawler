@@ -3,7 +3,7 @@ package memory
 import (
 	"fmt"
 	"time"
-	"webcrawler/textindexer/index"
+	"webcrawler/crawler/textindexer/index"
 
 	"github.com/blevesearch/bleve/v2"
 	"github.com/blevesearch/bleve/v2/search/query"

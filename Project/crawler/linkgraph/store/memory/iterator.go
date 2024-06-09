@@ -1,6 +1,6 @@
 package memory
 
-import "webcrawler/linkgraph/graph"
+import "webcrawler/crawler/linkgraph/graph"
 
 // linkIterator is a graph.LinkIterator implementation for the in-memory graph.
 type linkIterator struct {
